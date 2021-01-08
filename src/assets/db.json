@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "AFZAL",
+      "gender": "male",
+      "city": "Bhilad",
+      "state": "Gujarat",
+      "phoneNumber": "1234567898",
+      "zipCode": "396230"
+    },
+    {
+      "name": "DEV",
+      "gender": "male",
+      "city": "bhilad",
+      "state": "gujarat",
+      "phoneNumber": "1234656542",
+      "zipCode": "123654",
+      "id": 3
+    },
+    {
+      "name": "rohan",
+      "gender": "male",
+      "city": "new york city",
+      "state": "new york",
+      "phoneNumber": "4563218526",
+      "zipCode": "456321",
+      "id": 4
+    },
+    {
+      "name": "bhavik",
+      "gender": "male",
+      "city": "bhilad",
+      "state": "gujarat",
+      "phoneNumber": "9879293694",
+      "zipCode": "396105",
+      "id": 6
+    },
+    {
+      "name": "new usert",
+      "gender": "female",
+      "city": "valsad",
+      "state": "gujarat",
+      "phoneNumber": "6543218",
+      "zipCode": "987456",
+      "id": 7
+    }
+  ]
+}
